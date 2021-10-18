@@ -1,3 +1,22 @@
+For start run migration
+php artisan migrate
+php artisan db:seed --class=AdminSeeder
+php artisan db:seed --class=UserSeeder
+
+
+Admin Login Details 
+URL /admin
+    email :- admin@gmail.com 
+    password :- 123456789 
+
+
+User Login Details 
+URL /admin
+    email :- user@gmail.com 
+    password :- 123456789 
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">

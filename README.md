@@ -1,19 +1,20 @@
-For start run migration
-php artisan migrate
-php artisan db:seed --class=AdminSeeder
-php artisan db:seed --class=UserSeeder
+
+For start run migration <br>
+php artisan migrate<br>
+php artisan db:seed --class=AdminSeeder <br>
+php artisan db:seed --class=UserSeeder <br>
 
 
-Admin Login Details 
-URL /admin
-    email :- admin@gmail.com 
-    password :- 123456789 
+Admin Login Details  <br>
+URL /admin <br>
+    email :- admin@gmail.com  <br>
+    password :- 123456789  <br>
 
 
-User Login Details 
-URL /admin
-    email :- user@gmail.com 
-    password :- 123456789 
+User Login Details  <br>
+URL /admin <br>
+    email :- user@gmail.com  <br>
+    password :- 123456789  <br>
 
 
 
